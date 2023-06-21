@@ -1,0 +1,21 @@
+input[type=text], select, input[type=password] {
+  padding: 4px 4px;
+  margin: 4px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+.setOption{
+	min-width: 50px;
+	height: 40px;
+}
+
+.setWord{
+	width: 140px;
+}
+
+.pass{
+	width: 100px;
+}
